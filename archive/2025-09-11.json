@@ -1,20 +1,20 @@
 {
   "date": "2025-09-11",
   "aipi": {
-    "index": 54.882,
-    "ema_7": 54.882,
+    "index": 55.133,
+    "ema_7": 55.133,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.1373607609561753,
-        "index": 56.868
+        "mean_sentiment": 0.1421855789473684,
+        "index": 57.109
       },
       "social": {
-        "mean_sentiment": 0.03677639069767442,
-        "index": 51.839
+        "mean_sentiment": 0.04699103619909502,
+        "index": 52.35
       },
       "search": {
-        "mean_sentiment": 0.06981378484848484,
-        "index": 53.491
+        "mean_sentiment": 0.0699327356060606,
+        "index": 53.497
       },
       "knowledge": {
         "mean_sentiment": 0.17695751724137931,
@@ -30,94 +30,94 @@
     "news": [
       {
         "category": "Regulation & Policy",
-        "count": 121,
-        "share": 0.241,
-        "avg_sentiment": 0.173,
-        "avg_intensity": 0.272,
-        "total_engagement": 242,
+        "count": 120,
+        "share": 0.243,
+        "avg_sentiment": 0.186,
+        "avg_intensity": 0.275,
+        "total_engagement": 240,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Senator Cruz introduces an AI ‘sandbox’ bill to ease regulatory burdens - Computerworld",
+          "title": "All About Future-Ready AI Networks - AiThority",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.223
+          "sentiment_score": 0.297
         }
       },
       {
         "category": "Jobs & Economy",
-        "count": 76,
-        "share": 0.151,
-        "avg_sentiment": 0.116,
-        "avg_intensity": 0.306,
-        "total_engagement": 152,
+        "count": 68,
+        "share": 0.138,
+        "avg_sentiment": 0.084,
+        "avg_intensity": 0.318,
+        "total_engagement": 136,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Nvidia Stock Rises. How the Chip Maker Is Set to Gain From Oracle's AI Surge. - Barron's",
+          "title": "The dawn of a new era in animation? - Windows Central",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.543
+          "sentiment_score": 0.166
         }
       },
       {
         "category": "Humanity & AI",
-        "count": 52,
-        "share": 0.104,
-        "avg_sentiment": 0.085,
-        "avg_intensity": 0.238,
-        "total_engagement": 104,
+        "count": 55,
+        "share": 0.111,
+        "avg_sentiment": 0.108,
+        "avg_intensity": 0.27,
+        "total_engagement": 110,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Artificial Intelligence is getting worse, not better - The Times of Israel",
+          "title": "A semi-intelligent look at artificial intelligence - The Eatonton Messenger",
           "url": "",
           "engagement": 2,
-          "sentiment_score": -0.903
+          "sentiment_score": 0.028
         }
       }
     ],
     "social": [
       {
         "category": "Jobs & Economy",
-        "count": 53,
-        "share": 0.247,
-        "avg_sentiment": -0.079,
-        "avg_intensity": 0.396,
-        "total_engagement": 5.3,
+        "count": 54,
+        "share": 0.244,
+        "avg_sentiment": -0.09,
+        "avg_intensity": 0.41,
+        "total_engagement": 5.4,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "ChatGPT made a game that got 14,000 visits in one week",
+          "title": "More Vessels",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.228
+          "sentiment_score": 0.131
         }
       },
       {
         "category": "Humanity & AI",
-        "count": 29,
-        "share": 0.135,
-        "avg_sentiment": -0.142,
-        "avg_intensity": 0.448,
-        "total_engagement": 2.9,
+        "count": 33,
+        "share": 0.149,
+        "avg_sentiment": -0.126,
+        "avg_intensity": 0.449,
+        "total_engagement": 3.3,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Before OpenAI, Sam Altman used to say his greatest fear was AI ending humanity. Now that his company is $500 billion, he says it's overuse of em dashes",
+          "title": "Consciousness as Expectation",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": -0.466
+          "sentiment_score": -0.131
         }
       },
       {
         "category": "Everyday Tools & Productivity",
-        "count": 25,
-        "share": 0.116,
-        "avg_sentiment": 0.191,
-        "avg_intensity": 0.507,
-        "total_engagement": 2.5,
+        "count": 23,
+        "share": 0.104,
+        "avg_sentiment": 0.226,
+        "avg_intensity": 0.513,
+        "total_engagement": 2.3,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "i made a narrative game, check it out",
+          "title": "z.ai experience?",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.277
+          "sentiment_score": 0.437
         }
       }
     ]
@@ -126,94 +126,94 @@
   "top_drivers_news": [
     {
       "category": "Regulation & Policy",
-      "count": 121,
-      "share": 0.241,
-      "avg_sentiment": 0.173,
-      "avg_intensity": 0.272,
-      "total_engagement": 242,
+      "count": 120,
+      "share": 0.243,
+      "avg_sentiment": 0.186,
+      "avg_intensity": 0.275,
+      "total_engagement": 240,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Senator Cruz introduces an AI ‘sandbox’ bill to ease regulatory burdens - Computerworld",
+        "title": "All About Future-Ready AI Networks - AiThority",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.223
+        "sentiment_score": 0.297
       }
     },
     {
       "category": "Jobs & Economy",
-      "count": 76,
-      "share": 0.151,
-      "avg_sentiment": 0.116,
-      "avg_intensity": 0.306,
-      "total_engagement": 152,
+      "count": 68,
+      "share": 0.138,
+      "avg_sentiment": 0.084,
+      "avg_intensity": 0.318,
+      "total_engagement": 136,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Nvidia Stock Rises. How the Chip Maker Is Set to Gain From Oracle's AI Surge. - Barron's",
+        "title": "The dawn of a new era in animation? - Windows Central",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.543
+        "sentiment_score": 0.166
       }
     },
     {
       "category": "Humanity & AI",
-      "count": 52,
-      "share": 0.104,
-      "avg_sentiment": 0.085,
-      "avg_intensity": 0.238,
-      "total_engagement": 104,
+      "count": 55,
+      "share": 0.111,
+      "avg_sentiment": 0.108,
+      "avg_intensity": 0.27,
+      "total_engagement": 110,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Artificial Intelligence is getting worse, not better - The Times of Israel",
+        "title": "A semi-intelligent look at artificial intelligence - The Eatonton Messenger",
         "url": "",
         "engagement": 2,
-        "sentiment_score": -0.903
+        "sentiment_score": 0.028
       }
     }
   ],
   "top_drivers_social": [
     {
       "category": "Jobs & Economy",
-      "count": 53,
-      "share": 0.247,
-      "avg_sentiment": -0.079,
-      "avg_intensity": 0.396,
-      "total_engagement": 5.3,
+      "count": 54,
+      "share": 0.244,
+      "avg_sentiment": -0.09,
+      "avg_intensity": 0.41,
+      "total_engagement": 5.4,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "ChatGPT made a game that got 14,000 visits in one week",
+        "title": "More Vessels",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.228
+        "sentiment_score": 0.131
       }
     },
     {
       "category": "Humanity & AI",
-      "count": 29,
-      "share": 0.135,
-      "avg_sentiment": -0.142,
-      "avg_intensity": 0.448,
-      "total_engagement": 2.9,
+      "count": 33,
+      "share": 0.149,
+      "avg_sentiment": -0.126,
+      "avg_intensity": 0.449,
+      "total_engagement": 3.3,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Before OpenAI, Sam Altman used to say his greatest fear was AI ending humanity. Now that his company is $500 billion, he says it's overuse of em dashes",
+        "title": "Consciousness as Expectation",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": -0.466
+        "sentiment_score": -0.131
       }
     },
     {
       "category": "Everyday Tools & Productivity",
-      "count": 25,
-      "share": 0.116,
-      "avg_sentiment": 0.191,
-      "avg_intensity": 0.507,
-      "total_engagement": 2.5,
+      "count": 23,
+      "share": 0.104,
+      "avg_sentiment": 0.226,
+      "avg_intensity": 0.513,
+      "total_engagement": 2.3,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "i made a narrative game, check it out",
+        "title": "z.ai experience?",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.277
+        "sentiment_score": 0.437
       }
     }
   ]
