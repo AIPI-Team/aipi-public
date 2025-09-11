@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Pulse Index (AIPI)</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; max-width: 700px; }
+    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+    .score { font-size: 3rem; font-weight: bold; color: #2a7; }
+    .section { margin-top: 2rem; }
+    ul { margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <h1>AI Pulse Index (AIPI)</h1>
+  <p>Latest cultural sentiment toward AI</p>
+
+  <div class="score" id="score">Loading...</div>
+  <p id="date"></p>
+
+  <div class="section">
+    <h2>📰 Top Story</h2>
+    <p id="top-story">Loading...</p>
+  </div>
+
+  <div class="section">
+    <h2>💬 Top Drivers – Social</h2>
+    <ul id="drivers-social"></ul>
+  </div>
+
+  <div class="section">
+    <h2>📰 Top Drivers – News</h2>
+    <ul id="drivers-news"></ul>
+  </div>
+
+  <script>
+    fetch("daily.json")
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("score").textContent = data.score.toFixed(1);
+        document.getElementById("date").textContent = `Date: ${data.date}`;
+
+        // Top Story
+        document.getElementById("top-story").textContent = data.top_story || "N/A";
+
+        // Drivers
+        const socialList = document.getElementById("drivers-social");
+        (data.top_drivers_social || []).forEach(d => {
+          let li = document.createElement("li");
+          li.textContent = d;
+          socialList.appendChild(li);
+        });
+
+        const newsList = document.getElementById("drivers-news");
+        (data.top_drivers_news || []).forEach(d => {
+          let li = document.createElement("li");
+          li.textContent = d;
+          newsList.appendChild(li);
+        });
+      })
+      .catch(err => console.error("Error loading AIPI data:", err));
+  </script>
+</body>
+</html>
