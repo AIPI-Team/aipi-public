@@ -1,0 +1,220 @@
+{
+  "date": "2025-09-10",
+  "aipi": {
+    "index": 53.348,
+    "ema_7": 53.348,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.15242368712871288,
+        "index": 57.621
+      },
+      "social": {
+        "mean_sentiment": -0.08700458461538461,
+        "index": 45.65
+      },
+      "search": {
+        "mean_sentiment": 0.07010579848484849,
+        "index": 53.505
+      },
+      "knowledge": {
+        "mean_sentiment": 0.18080125862068966,
+        "index": 59.04
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's AI developments",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "category": "Regulation & Policy",
+        "count": 124,
+        "share": 0.246,
+        "avg_sentiment": 0.154,
+        "avg_intensity": 0.256,
+        "total_engagement": 248,
+        "avg_engagement": 2,
+        "top_example": {
+          "title": "Samsung SDS unveils AI Full-stack strategy at REAL Summit'25 - 조선일보",
+          "url": "",
+          "engagement": 2,
+          "sentiment_score": 0.413
+        }
+      },
+      {
+        "category": "Jobs & Economy",
+        "count": 80,
+        "share": 0.158,
+        "avg_sentiment": 0.15,
+        "avg_intensity": 0.262,
+        "total_engagement": 160,
+        "avg_engagement": 2,
+        "top_example": {
+          "title": "Monday.Com at Goldman Sachs Conference: Growth and AI Strategy - Investing.com",
+          "url": "",
+          "engagement": 2,
+          "sentiment_score": 0.161
+        }
+      },
+      {
+        "category": "Humanity & AI",
+        "count": 55,
+        "share": 0.109,
+        "avg_sentiment": 0.115,
+        "avg_intensity": 0.219,
+        "total_engagement": 110,
+        "avg_engagement": 2,
+        "top_example": {
+          "title": "Spotify Updates Terms to Ban AI Training While Clarifying User Rights - News Ghana",
+          "url": "",
+          "engagement": 2,
+          "sentiment_score": -0.26
+        }
+      }
+    ],
+    "social": [
+      {
+        "category": "Jobs & Economy",
+        "count": 45,
+        "share": 0.231,
+        "avg_sentiment": -0.249,
+        "avg_intensity": 0.461,
+        "total_engagement": 4.5,
+        "avg_engagement": 0.1,
+        "top_example": {
+          "title": "Not quite...",
+          "url": "",
+          "engagement": 0.1,
+          "sentiment_score": -0.096
+        }
+      },
+      {
+        "category": "Regulation & Policy",
+        "count": 22,
+        "share": 0.113,
+        "avg_sentiment": -0.069,
+        "avg_intensity": 0.395,
+        "total_engagement": 2.2,
+        "avg_engagement": 0.1,
+        "top_example": {
+          "title": "ChatGPT is getting worse every second…",
+          "url": "",
+          "engagement": 0.1,
+          "sentiment_score": -0.633
+        }
+      },
+      {
+        "category": "Everyday Tools & Productivity",
+        "count": 22,
+        "share": 0.113,
+        "avg_sentiment": -0.048,
+        "avg_intensity": 0.481,
+        "total_engagement": 2.2,
+        "avg_engagement": 0.1,
+        "top_example": {
+          "title": "Feedback for Local AI Platform",
+          "url": "",
+          "engagement": 0.1,
+          "sentiment_score": 0.71
+        }
+      }
+    ]
+  },
+  "top_story": "Today's AI developments",
+  "top_drivers_news": [
+    {
+      "category": "Regulation & Policy",
+      "count": 124,
+      "share": 0.246,
+      "avg_sentiment": 0.154,
+      "avg_intensity": 0.256,
+      "total_engagement": 248,
+      "avg_engagement": 2,
+      "top_example": {
+        "title": "Samsung SDS unveils AI Full-stack strategy at REAL Summit'25 - 조선일보",
+        "url": "",
+        "engagement": 2,
+        "sentiment_score": 0.413
+      }
+    },
+    {
+      "category": "Jobs & Economy",
+      "count": 80,
+      "share": 0.158,
+      "avg_sentiment": 0.15,
+      "avg_intensity": 0.262,
+      "total_engagement": 160,
+      "avg_engagement": 2,
+      "top_example": {
+        "title": "Monday.Com at Goldman Sachs Conference: Growth and AI Strategy - Investing.com",
+        "url": "",
+        "engagement": 2,
+        "sentiment_score": 0.161
+      }
+    },
+    {
+      "category": "Humanity & AI",
+      "count": 55,
+      "share": 0.109,
+      "avg_sentiment": 0.115,
+      "avg_intensity": 0.219,
+      "total_engagement": 110,
+      "avg_engagement": 2,
+      "top_example": {
+        "title": "Spotify Updates Terms to Ban AI Training While Clarifying User Rights - News Ghana",
+        "url": "",
+        "engagement": 2,
+        "sentiment_score": -0.26
+      }
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "category": "Jobs & Economy",
+      "count": 45,
+      "share": 0.231,
+      "avg_sentiment": -0.249,
+      "avg_intensity": 0.461,
+      "total_engagement": 4.5,
+      "avg_engagement": 0.1,
+      "top_example": {
+        "title": "Not quite...",
+        "url": "",
+        "engagement": 0.1,
+        "sentiment_score": -0.096
+      }
+    },
+    {
+      "category": "Regulation & Policy",
+      "count": 22,
+      "share": 0.113,
+      "avg_sentiment": -0.069,
+      "avg_intensity": 0.395,
+      "total_engagement": 2.2,
+      "avg_engagement": 0.1,
+      "top_example": {
+        "title": "ChatGPT is getting worse every second…",
+        "url": "",
+        "engagement": 0.1,
+        "sentiment_score": -0.633
+      }
+    },
+    {
+      "category": "Everyday Tools & Productivity",
+      "count": 22,
+      "share": 0.113,
+      "avg_sentiment": -0.048,
+      "avg_intensity": 0.481,
+      "total_engagement": 2.2,
+      "avg_engagement": 0.1,
+      "top_example": {
+        "title": "Feedback for Local AI Platform",
+        "url": "",
+        "engagement": 0.1,
+        "sentiment_score": 0.71
+      }
+    }
+  ]
+}
