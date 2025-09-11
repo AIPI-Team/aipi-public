@@ -1,24 +1,24 @@
 {
-  "date": "2025-09-10",
+  "date": "2025-09-11",
   "aipi": {
-    "index": 53.348,
-    "ema_7": 53.348,
+    "index": 54.882,
+    "ema_7": 54.882,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.15242368712871288,
-        "index": 57.621
+        "mean_sentiment": 0.1373607609561753,
+        "index": 56.868
       },
       "social": {
-        "mean_sentiment": -0.08700458461538461,
-        "index": 45.65
+        "mean_sentiment": 0.03677639069767442,
+        "index": 51.839
       },
       "search": {
-        "mean_sentiment": 0.07010579848484849,
-        "index": 53.505
+        "mean_sentiment": 0.06981378484848484,
+        "index": 53.491
       },
       "knowledge": {
-        "mean_sentiment": 0.18080125862068966,
-        "index": 59.04
+        "mean_sentiment": 0.17695751724137931,
+        "index": 58.848
       }
     }
   },
@@ -30,94 +30,94 @@
     "news": [
       {
         "category": "Regulation & Policy",
-        "count": 124,
-        "share": 0.246,
-        "avg_sentiment": 0.154,
-        "avg_intensity": 0.256,
-        "total_engagement": 248,
+        "count": 121,
+        "share": 0.241,
+        "avg_sentiment": 0.173,
+        "avg_intensity": 0.272,
+        "total_engagement": 242,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Samsung SDS unveils AI Full-stack strategy at REAL Summit'25 - 조선일보",
+          "title": "Senator Cruz introduces an AI ‘sandbox’ bill to ease regulatory burdens - Computerworld",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.413
+          "sentiment_score": 0.223
         }
       },
       {
         "category": "Jobs & Economy",
-        "count": 80,
-        "share": 0.158,
-        "avg_sentiment": 0.15,
-        "avg_intensity": 0.262,
-        "total_engagement": 160,
+        "count": 76,
+        "share": 0.151,
+        "avg_sentiment": 0.116,
+        "avg_intensity": 0.306,
+        "total_engagement": 152,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Monday.Com at Goldman Sachs Conference: Growth and AI Strategy - Investing.com",
+          "title": "Nvidia Stock Rises. How the Chip Maker Is Set to Gain From Oracle's AI Surge. - Barron's",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.161
+          "sentiment_score": 0.543
         }
       },
       {
         "category": "Humanity & AI",
-        "count": 55,
-        "share": 0.109,
-        "avg_sentiment": 0.115,
-        "avg_intensity": 0.219,
-        "total_engagement": 110,
+        "count": 52,
+        "share": 0.104,
+        "avg_sentiment": 0.085,
+        "avg_intensity": 0.238,
+        "total_engagement": 104,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Spotify Updates Terms to Ban AI Training While Clarifying User Rights - News Ghana",
+          "title": "Artificial Intelligence is getting worse, not better - The Times of Israel",
           "url": "",
           "engagement": 2,
-          "sentiment_score": -0.26
+          "sentiment_score": -0.903
         }
       }
     ],
     "social": [
       {
         "category": "Jobs & Economy",
-        "count": 45,
-        "share": 0.231,
-        "avg_sentiment": -0.249,
-        "avg_intensity": 0.461,
-        "total_engagement": 4.5,
+        "count": 53,
+        "share": 0.247,
+        "avg_sentiment": -0.079,
+        "avg_intensity": 0.396,
+        "total_engagement": 5.3,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Not quite...",
+          "title": "ChatGPT made a game that got 14,000 visits in one week",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": -0.096
+          "sentiment_score": 0.228
         }
       },
       {
-        "category": "Regulation & Policy",
-        "count": 22,
-        "share": 0.113,
-        "avg_sentiment": -0.069,
-        "avg_intensity": 0.395,
-        "total_engagement": 2.2,
+        "category": "Humanity & AI",
+        "count": 29,
+        "share": 0.135,
+        "avg_sentiment": -0.142,
+        "avg_intensity": 0.448,
+        "total_engagement": 2.9,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "ChatGPT is getting worse every second…",
+          "title": "Before OpenAI, Sam Altman used to say his greatest fear was AI ending humanity. Now that his company is $500 billion, he says it's overuse of em dashes",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": -0.633
+          "sentiment_score": -0.466
         }
       },
       {
         "category": "Everyday Tools & Productivity",
-        "count": 22,
-        "share": 0.113,
-        "avg_sentiment": -0.048,
-        "avg_intensity": 0.481,
-        "total_engagement": 2.2,
+        "count": 25,
+        "share": 0.116,
+        "avg_sentiment": 0.191,
+        "avg_intensity": 0.507,
+        "total_engagement": 2.5,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Feedback for Local AI Platform",
+          "title": "i made a narrative game, check it out",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.71
+          "sentiment_score": 0.277
         }
       }
     ]
@@ -126,94 +126,94 @@
   "top_drivers_news": [
     {
       "category": "Regulation & Policy",
-      "count": 124,
-      "share": 0.246,
-      "avg_sentiment": 0.154,
-      "avg_intensity": 0.256,
-      "total_engagement": 248,
+      "count": 121,
+      "share": 0.241,
+      "avg_sentiment": 0.173,
+      "avg_intensity": 0.272,
+      "total_engagement": 242,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Samsung SDS unveils AI Full-stack strategy at REAL Summit'25 - 조선일보",
+        "title": "Senator Cruz introduces an AI ‘sandbox’ bill to ease regulatory burdens - Computerworld",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.413
+        "sentiment_score": 0.223
       }
     },
     {
       "category": "Jobs & Economy",
-      "count": 80,
-      "share": 0.158,
-      "avg_sentiment": 0.15,
-      "avg_intensity": 0.262,
-      "total_engagement": 160,
+      "count": 76,
+      "share": 0.151,
+      "avg_sentiment": 0.116,
+      "avg_intensity": 0.306,
+      "total_engagement": 152,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Monday.Com at Goldman Sachs Conference: Growth and AI Strategy - Investing.com",
+        "title": "Nvidia Stock Rises. How the Chip Maker Is Set to Gain From Oracle's AI Surge. - Barron's",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.161
+        "sentiment_score": 0.543
       }
     },
     {
       "category": "Humanity & AI",
-      "count": 55,
-      "share": 0.109,
-      "avg_sentiment": 0.115,
-      "avg_intensity": 0.219,
-      "total_engagement": 110,
+      "count": 52,
+      "share": 0.104,
+      "avg_sentiment": 0.085,
+      "avg_intensity": 0.238,
+      "total_engagement": 104,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Spotify Updates Terms to Ban AI Training While Clarifying User Rights - News Ghana",
+        "title": "Artificial Intelligence is getting worse, not better - The Times of Israel",
         "url": "",
         "engagement": 2,
-        "sentiment_score": -0.26
+        "sentiment_score": -0.903
       }
     }
   ],
   "top_drivers_social": [
     {
       "category": "Jobs & Economy",
-      "count": 45,
-      "share": 0.231,
-      "avg_sentiment": -0.249,
-      "avg_intensity": 0.461,
-      "total_engagement": 4.5,
+      "count": 53,
+      "share": 0.247,
+      "avg_sentiment": -0.079,
+      "avg_intensity": 0.396,
+      "total_engagement": 5.3,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Not quite...",
+        "title": "ChatGPT made a game that got 14,000 visits in one week",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": -0.096
+        "sentiment_score": 0.228
       }
     },
     {
-      "category": "Regulation & Policy",
-      "count": 22,
-      "share": 0.113,
-      "avg_sentiment": -0.069,
-      "avg_intensity": 0.395,
-      "total_engagement": 2.2,
+      "category": "Humanity & AI",
+      "count": 29,
+      "share": 0.135,
+      "avg_sentiment": -0.142,
+      "avg_intensity": 0.448,
+      "total_engagement": 2.9,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "ChatGPT is getting worse every second…",
+        "title": "Before OpenAI, Sam Altman used to say his greatest fear was AI ending humanity. Now that his company is $500 billion, he says it's overuse of em dashes",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": -0.633
+        "sentiment_score": -0.466
       }
     },
     {
       "category": "Everyday Tools & Productivity",
-      "count": 22,
-      "share": 0.113,
-      "avg_sentiment": -0.048,
-      "avg_intensity": 0.481,
-      "total_engagement": 2.2,
+      "count": 25,
+      "share": 0.116,
+      "avg_sentiment": 0.191,
+      "avg_intensity": 0.507,
+      "total_engagement": 2.5,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Feedback for Local AI Platform",
+        "title": "i made a narrative game, check it out",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.71
+        "sentiment_score": 0.277
       }
     }
   ]
