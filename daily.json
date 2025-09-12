@@ -1,20 +1,20 @@
 {
   "date": "2025-09-12",
   "aipi": {
-    "index": 53.763,
-    "ema_7": 53.763,
+    "index": 53.696,
+    "ema_7": 53.696,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.11829804243542436,
-        "index": 55.915
+        "mean_sentiment": 0.11966036753731343,
+        "index": 55.983
       },
       "social": {
-        "mean_sentiment": -0.010370836448598132,
-        "index": 49.481
+        "mean_sentiment": -0.016491474418604653,
+        "index": 49.175
       },
       "search": {
-        "mean_sentiment": 0.07054961136363637,
-        "index": 53.527
+        "mean_sentiment": 0.07031499166666667,
+        "index": 53.516
       },
       "knowledge": {
         "mean_sentiment": 0.169358,
@@ -30,47 +30,47 @@
     "news": [
       {
         "category": "Regulation & Policy",
-        "count": 112,
-        "share": 0.207,
-        "avg_sentiment": 0.077,
-        "avg_intensity": 0.232,
-        "total_engagement": 224,
+        "count": 117,
+        "share": 0.218,
+        "avg_sentiment": 0.066,
+        "avg_intensity": 0.222,
+        "total_engagement": 234,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Gov't vows full policy support for domestic AI, robotics firms - Korea JoongAng Daily",
+          "title": "Opinion | AI zealots and doomers need to start getting real - The Washington Post",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.119
+          "sentiment_score": -0.047
         }
       },
       {
         "category": "Jobs & Economy",
-        "count": 79,
-        "share": 0.146,
-        "avg_sentiment": 0.129,
-        "avg_intensity": 0.341,
-        "total_engagement": 158,
+        "count": 77,
+        "share": 0.144,
+        "avg_sentiment": 0.108,
+        "avg_intensity": 0.344,
+        "total_engagement": 154,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Wall Street Breakfast Podcast: Microsoft, OpenAI Chart New Path - Seeking Alpha",
+          "title": "[Exclusive] BlackRock Backs China Tech Amid AI Boom, Chip Self-Reliance Drive, Exec Says - Yicai Global",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.109
+          "sentiment_score": 0.199
         }
       },
       {
         "category": "Business & Investment",
-        "count": 71,
-        "share": 0.131,
+        "count": 69,
+        "share": 0.129,
         "avg_sentiment": 0.266,
-        "avg_intensity": 0.278,
-        "total_engagement": 142,
+        "avg_intensity": 0.279,
+        "total_engagement": 138,
         "avg_engagement": 2,
         "top_example": {
-          "title": "iCIMS acquires Apli, strengthening AI market leadership - ROI-NJ",
+          "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.443
+          "sentiment_score": 0.413
         }
       }
     ],
@@ -78,46 +78,46 @@
       {
         "category": "Jobs & Economy",
         "count": 47,
-        "share": 0.22,
-        "avg_sentiment": -0.261,
-        "avg_intensity": 0.472,
+        "share": 0.219,
+        "avg_sentiment": -0.324,
+        "avg_intensity": 0.511,
         "total_engagement": 4.7,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Does chat gpt forgot how to write numbers in words?",
+          "title": "GPT-4o limit reached after only one message.",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": -0.617
+          "sentiment_score": -0.717
+        }
+      },
+      {
+        "category": "Everyday Tools & Productivity",
+        "count": 30,
+        "share": 0.14,
+        "avg_sentiment": 0.008,
+        "avg_intensity": 0.459,
+        "total_engagement": 3,
+        "avg_engagement": 0.1,
+        "top_example": {
+          "title": "runner tricks #1",
+          "url": "",
+          "engagement": 0.1,
+          "sentiment_score": 0.645
         }
       },
       {
         "category": "Humanity & AI",
         "count": 29,
-        "share": 0.136,
-        "avg_sentiment": 0.081,
-        "avg_intensity": 0.438,
+        "share": 0.135,
+        "avg_sentiment": 0.1,
+        "avg_intensity": 0.402,
         "total_engagement": 2.9,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Sam Altman is right: AI is changing the way people write and talk",
+          "title": "#ONPASSIVE ARTIFICIAL INTELLIGENCE IT COMPANY কী? এটি কি জীবনকে ৩৬০° পরিবর্তন করতে পারে? 09-SEP-2025",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.13
-        }
-      },
-      {
-        "category": "Everyday Tools & Productivity",
-        "count": 26,
-        "share": 0.121,
-        "avg_sentiment": -0.008,
-        "avg_intensity": 0.486,
-        "total_engagement": 2.6,
-        "avg_engagement": 0.1,
-        "top_example": {
-          "title": "Real life experience with Qwen3 embeddings?",
-          "url": "",
-          "engagement": 0.1,
-          "sentiment_score": 0.41
+          "sentiment_score": 0.26
         }
       }
     ]
@@ -126,47 +126,47 @@
   "top_drivers_news": [
     {
       "category": "Regulation & Policy",
-      "count": 112,
-      "share": 0.207,
-      "avg_sentiment": 0.077,
-      "avg_intensity": 0.232,
-      "total_engagement": 224,
+      "count": 117,
+      "share": 0.218,
+      "avg_sentiment": 0.066,
+      "avg_intensity": 0.222,
+      "total_engagement": 234,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Gov't vows full policy support for domestic AI, robotics firms - Korea JoongAng Daily",
+        "title": "Opinion | AI zealots and doomers need to start getting real - The Washington Post",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.119
+        "sentiment_score": -0.047
       }
     },
     {
       "category": "Jobs & Economy",
-      "count": 79,
-      "share": 0.146,
-      "avg_sentiment": 0.129,
-      "avg_intensity": 0.341,
-      "total_engagement": 158,
+      "count": 77,
+      "share": 0.144,
+      "avg_sentiment": 0.108,
+      "avg_intensity": 0.344,
+      "total_engagement": 154,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Wall Street Breakfast Podcast: Microsoft, OpenAI Chart New Path - Seeking Alpha",
+        "title": "[Exclusive] BlackRock Backs China Tech Amid AI Boom, Chip Self-Reliance Drive, Exec Says - Yicai Global",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.109
+        "sentiment_score": 0.199
       }
     },
     {
       "category": "Business & Investment",
-      "count": 71,
-      "share": 0.131,
+      "count": 69,
+      "share": 0.129,
       "avg_sentiment": 0.266,
-      "avg_intensity": 0.278,
-      "total_engagement": 142,
+      "avg_intensity": 0.279,
+      "total_engagement": 138,
       "avg_engagement": 2,
       "top_example": {
-        "title": "iCIMS acquires Apli, strengthening AI market leadership - ROI-NJ",
+        "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.443
+        "sentiment_score": 0.413
       }
     }
   ],
@@ -174,46 +174,46 @@
     {
       "category": "Jobs & Economy",
       "count": 47,
-      "share": 0.22,
-      "avg_sentiment": -0.261,
-      "avg_intensity": 0.472,
+      "share": 0.219,
+      "avg_sentiment": -0.324,
+      "avg_intensity": 0.511,
       "total_engagement": 4.7,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Does chat gpt forgot how to write numbers in words?",
+        "title": "GPT-4o limit reached after only one message.",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": -0.617
+        "sentiment_score": -0.717
+      }
+    },
+    {
+      "category": "Everyday Tools & Productivity",
+      "count": 30,
+      "share": 0.14,
+      "avg_sentiment": 0.008,
+      "avg_intensity": 0.459,
+      "total_engagement": 3,
+      "avg_engagement": 0.1,
+      "top_example": {
+        "title": "runner tricks #1",
+        "url": "",
+        "engagement": 0.1,
+        "sentiment_score": 0.645
       }
     },
     {
       "category": "Humanity & AI",
       "count": 29,
-      "share": 0.136,
-      "avg_sentiment": 0.081,
-      "avg_intensity": 0.438,
+      "share": 0.135,
+      "avg_sentiment": 0.1,
+      "avg_intensity": 0.402,
       "total_engagement": 2.9,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Sam Altman is right: AI is changing the way people write and talk",
+        "title": "#ONPASSIVE ARTIFICIAL INTELLIGENCE IT COMPANY কী? এটি কি জীবনকে ৩৬০° পরিবর্তন করতে পারে? 09-SEP-2025",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.13
-      }
-    },
-    {
-      "category": "Everyday Tools & Productivity",
-      "count": 26,
-      "share": 0.121,
-      "avg_sentiment": -0.008,
-      "avg_intensity": 0.486,
-      "total_engagement": 2.6,
-      "avg_engagement": 0.1,
-      "top_example": {
-        "title": "Real life experience with Qwen3 embeddings?",
-        "url": "",
-        "engagement": 0.1,
-        "sentiment_score": 0.41
+        "sentiment_score": 0.26
       }
     }
   ]
