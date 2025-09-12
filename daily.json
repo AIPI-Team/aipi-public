@@ -1,20 +1,20 @@
 {
   "date": "2025-09-12",
   "aipi": {
-    "index": 53.696,
-    "ema_7": 53.696,
+    "index": 53.044,
+    "ema_7": 53.044,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.11966036753731343,
-        "index": 55.983
+        "mean_sentiment": 0.11608018843283582,
+        "index": 55.804
       },
       "social": {
-        "mean_sentiment": -0.016491474418604653,
-        "index": 49.175
+        "mean_sentiment": -0.05496492592592593,
+        "index": 47.252
       },
       "search": {
-        "mean_sentiment": 0.07031499166666667,
-        "index": 53.516
+        "mean_sentiment": 0.07002075833333334,
+        "index": 53.501
       },
       "knowledge": {
         "mean_sentiment": 0.169358,
@@ -24,17 +24,18 @@
   },
   "above_fold": {
     "headline": "Today's AI developments",
+    "blurb": "",
     "links": []
   },
   "drivers": {
     "news": [
       {
         "category": "Regulation & Policy",
-        "count": 117,
-        "share": 0.218,
-        "avg_sentiment": 0.066,
-        "avg_intensity": 0.222,
-        "total_engagement": 234,
+        "count": 112,
+        "share": 0.209,
+        "avg_sentiment": 0.074,
+        "avg_intensity": 0.211,
+        "total_engagement": 224,
         "avg_engagement": 2,
         "top_example": {
           "title": "Opinion | AI zealots and doomers need to start getting real - The Washington Post",
@@ -45,79 +46,79 @@
       },
       {
         "category": "Jobs & Economy",
-        "count": 77,
-        "share": 0.144,
-        "avg_sentiment": 0.108,
-        "avg_intensity": 0.344,
-        "total_engagement": 154,
+        "count": 78,
+        "share": 0.146,
+        "avg_sentiment": 0.112,
+        "avg_intensity": 0.343,
+        "total_engagement": 156,
         "avg_engagement": 2,
         "top_example": {
-          "title": "[Exclusive] BlackRock Backs China Tech Amid AI Boom, Chip Self-Reliance Drive, Exec Says - Yicai Global",
+          "title": "OpenAI and Microsoft reach tentative deal to revise partnership - MSN",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.199
+          "sentiment_score": 0.206
         }
       },
       {
         "category": "Business & Investment",
-        "count": 69,
-        "share": 0.129,
-        "avg_sentiment": 0.266,
-        "avg_intensity": 0.279,
-        "total_engagement": 138,
+        "count": 74,
+        "share": 0.138,
+        "avg_sentiment": 0.268,
+        "avg_intensity": 0.28,
+        "total_engagement": 148,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
+          "title": "From pilot to profitability: How to approach enterprise AI adoption - cio.com",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.413
+          "sentiment_score": 0.221
         }
       }
     ],
     "social": [
       {
         "category": "Jobs & Economy",
-        "count": 47,
-        "share": 0.219,
-        "avg_sentiment": -0.324,
-        "avg_intensity": 0.511,
-        "total_engagement": 4.7,
+        "count": 37,
+        "share": 0.171,
+        "avg_sentiment": -0.381,
+        "avg_intensity": 0.543,
+        "total_engagement": 3.7,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "GPT-4o limit reached after only one message.",
+          "title": "Life with ChatGPT in 2035",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": -0.717
-        }
-      },
-      {
-        "category": "Everyday Tools & Productivity",
-        "count": 30,
-        "share": 0.14,
-        "avg_sentiment": 0.008,
-        "avg_intensity": 0.459,
-        "total_engagement": 3,
-        "avg_engagement": 0.1,
-        "top_example": {
-          "title": "runner tricks #1",
-          "url": "",
-          "engagement": 0.1,
-          "sentiment_score": 0.645
+          "sentiment_score": 0.216
         }
       },
       {
         "category": "Humanity & AI",
-        "count": 29,
-        "share": 0.135,
-        "avg_sentiment": 0.1,
-        "avg_intensity": 0.402,
-        "total_engagement": 2.9,
+        "count": 35,
+        "share": 0.162,
+        "avg_sentiment": 0.067,
+        "avg_intensity": 0.513,
+        "total_engagement": 3.5,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "#ONPASSIVE ARTIFICIAL INTELLIGENCE IT COMPANY কী? এটি কি জীবনকে ৩৬০° পরিবর্তন করতে পারে? 09-SEP-2025",
+          "title": "AI's Future: The Next Generation of Artificial Intelligence",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.26
+          "sentiment_score": 0.891
+        }
+      },
+      {
+        "category": "Everyday Tools & Productivity",
+        "count": 31,
+        "share": 0.144,
+        "avg_sentiment": 0.006,
+        "avg_intensity": 0.449,
+        "total_engagement": 3.1,
+        "avg_engagement": 0.1,
+        "top_example": {
+          "title": "Looking for feedback: heads-up poker training app",
+          "url": "",
+          "engagement": 0.1,
+          "sentiment_score": 0.548
         }
       }
     ]
@@ -126,11 +127,11 @@
   "top_drivers_news": [
     {
       "category": "Regulation & Policy",
-      "count": 117,
-      "share": 0.218,
-      "avg_sentiment": 0.066,
-      "avg_intensity": 0.222,
-      "total_engagement": 234,
+      "count": 112,
+      "share": 0.209,
+      "avg_sentiment": 0.074,
+      "avg_intensity": 0.211,
+      "total_engagement": 224,
       "avg_engagement": 2,
       "top_example": {
         "title": "Opinion | AI zealots and doomers need to start getting real - The Washington Post",
@@ -141,79 +142,79 @@
     },
     {
       "category": "Jobs & Economy",
-      "count": 77,
-      "share": 0.144,
-      "avg_sentiment": 0.108,
-      "avg_intensity": 0.344,
-      "total_engagement": 154,
+      "count": 78,
+      "share": 0.146,
+      "avg_sentiment": 0.112,
+      "avg_intensity": 0.343,
+      "total_engagement": 156,
       "avg_engagement": 2,
       "top_example": {
-        "title": "[Exclusive] BlackRock Backs China Tech Amid AI Boom, Chip Self-Reliance Drive, Exec Says - Yicai Global",
+        "title": "OpenAI and Microsoft reach tentative deal to revise partnership - MSN",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.199
+        "sentiment_score": 0.206
       }
     },
     {
       "category": "Business & Investment",
-      "count": 69,
-      "share": 0.129,
-      "avg_sentiment": 0.266,
-      "avg_intensity": 0.279,
-      "total_engagement": 138,
+      "count": 74,
+      "share": 0.138,
+      "avg_sentiment": 0.268,
+      "avg_intensity": 0.28,
+      "total_engagement": 148,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
+        "title": "From pilot to profitability: How to approach enterprise AI adoption - cio.com",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.413
+        "sentiment_score": 0.221
       }
     }
   ],
   "top_drivers_social": [
     {
       "category": "Jobs & Economy",
-      "count": 47,
-      "share": 0.219,
-      "avg_sentiment": -0.324,
-      "avg_intensity": 0.511,
-      "total_engagement": 4.7,
+      "count": 37,
+      "share": 0.171,
+      "avg_sentiment": -0.381,
+      "avg_intensity": 0.543,
+      "total_engagement": 3.7,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "GPT-4o limit reached after only one message.",
+        "title": "Life with ChatGPT in 2035",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": -0.717
-      }
-    },
-    {
-      "category": "Everyday Tools & Productivity",
-      "count": 30,
-      "share": 0.14,
-      "avg_sentiment": 0.008,
-      "avg_intensity": 0.459,
-      "total_engagement": 3,
-      "avg_engagement": 0.1,
-      "top_example": {
-        "title": "runner tricks #1",
-        "url": "",
-        "engagement": 0.1,
-        "sentiment_score": 0.645
+        "sentiment_score": 0.216
       }
     },
     {
       "category": "Humanity & AI",
-      "count": 29,
-      "share": 0.135,
-      "avg_sentiment": 0.1,
-      "avg_intensity": 0.402,
-      "total_engagement": 2.9,
+      "count": 35,
+      "share": 0.162,
+      "avg_sentiment": 0.067,
+      "avg_intensity": 0.513,
+      "total_engagement": 3.5,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "#ONPASSIVE ARTIFICIAL INTELLIGENCE IT COMPANY কী? এটি কি জীবনকে ৩৬০° পরিবর্তন করতে পারে? 09-SEP-2025",
+        "title": "AI's Future: The Next Generation of Artificial Intelligence",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.26
+        "sentiment_score": 0.891
+      }
+    },
+    {
+      "category": "Everyday Tools & Productivity",
+      "count": 31,
+      "share": 0.144,
+      "avg_sentiment": 0.006,
+      "avg_intensity": 0.449,
+      "total_engagement": 3.1,
+      "avg_engagement": 0.1,
+      "top_example": {
+        "title": "Looking for feedback: heads-up poker training app",
+        "url": "",
+        "engagement": 0.1,
+        "sentiment_score": 0.548
       }
     }
   ]
