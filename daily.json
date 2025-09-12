@@ -1,24 +1,24 @@
 {
-  "date": "2025-09-11",
+  "date": "2025-09-12",
   "aipi": {
-    "index": 54.283,
-    "ema_7": 54.283,
+    "index": 53.763,
+    "ema_7": 53.763,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.13708635435992578,
-        "index": 56.854
+        "mean_sentiment": 0.11829804243542436,
+        "index": 55.915
       },
       "social": {
-        "mean_sentiment": -0.0029139901960784343,
-        "index": 49.854
+        "mean_sentiment": -0.010370836448598132,
+        "index": 49.481
       },
       "search": {
-        "mean_sentiment": 0.07006457121212122,
-        "index": 53.503
+        "mean_sentiment": 0.07054961136363637,
+        "index": 53.527
       },
       "knowledge": {
-        "mean_sentiment": 0.17695751724137931,
-        "index": 58.848
+        "mean_sentiment": 0.169358,
+        "index": 58.468
       }
     }
   },
@@ -30,94 +30,94 @@
     "news": [
       {
         "category": "Regulation & Policy",
-        "count": 113,
-        "share": 0.21,
-        "avg_sentiment": 0.083,
-        "avg_intensity": 0.226,
-        "total_engagement": 226,
+        "count": 112,
+        "share": 0.207,
+        "avg_sentiment": 0.077,
+        "avg_intensity": 0.232,
+        "total_engagement": 224,
         "avg_engagement": 2,
         "top_example": {
-          "title": "Japanese government’s AI Basic Plan to promote use of AI in public institutions - Asia News Network",
+          "title": "Gov't vows full policy support for domestic AI, robotics firms - Korea JoongAng Daily",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.508
-        }
-      },
-      {
-        "category": "Business & Investment",
-        "count": 67,
-        "share": 0.124,
-        "avg_sentiment": 0.248,
-        "avg_intensity": 0.29,
-        "total_engagement": 134,
-        "avg_engagement": 2,
-        "top_example": {
-          "title": "Microsoft and OpenAI Sign MOU to Advance AI Partnership and IPO Plans - WebProNews",
-          "url": "",
-          "engagement": 2,
-          "sentiment_score": 0.19
+          "sentiment_score": 0.119
         }
       },
       {
         "category": "Jobs & Economy",
-        "count": 65,
-        "share": 0.121,
-        "avg_sentiment": 0.068,
-        "avg_intensity": 0.349,
-        "total_engagement": 130,
+        "count": 79,
+        "share": 0.146,
+        "avg_sentiment": 0.129,
+        "avg_intensity": 0.341,
+        "total_engagement": 158,
         "avg_engagement": 2,
         "top_example": {
-          "title": "3D vision-based anomaly detection in manufacturing: A survey | Newswise - Newswise",
+          "title": "Wall Street Breakfast Podcast: Microsoft, OpenAI Chart New Path - Seeking Alpha",
           "url": "",
           "engagement": 2,
-          "sentiment_score": 0.056
+          "sentiment_score": 0.109
+        }
+      },
+      {
+        "category": "Business & Investment",
+        "count": 71,
+        "share": 0.131,
+        "avg_sentiment": 0.266,
+        "avg_intensity": 0.278,
+        "total_engagement": 142,
+        "avg_engagement": 2,
+        "top_example": {
+          "title": "iCIMS acquires Apli, strengthening AI market leadership - ROI-NJ",
+          "url": "",
+          "engagement": 2,
+          "sentiment_score": 0.443
         }
       }
     ],
     "social": [
       {
         "category": "Jobs & Economy",
-        "count": 38,
-        "share": 0.186,
-        "avg_sentiment": 0.015,
-        "avg_intensity": 0.452,
-        "total_engagement": 3.8,
+        "count": 47,
+        "share": 0.22,
+        "avg_sentiment": -0.261,
+        "avg_intensity": 0.472,
+        "total_engagement": 4.7,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "A test for ChatGPT to guess a TV show with a still image. A funny convo also ensues.",
+          "title": "Does chat gpt forgot how to write numbers in words?",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.675
+          "sentiment_score": -0.617
         }
       },
       {
         "category": "Humanity & AI",
-        "count": 30,
-        "share": 0.147,
-        "avg_sentiment": -0.008,
-        "avg_intensity": 0.422,
-        "total_engagement": 3,
+        "count": 29,
+        "share": 0.136,
+        "avg_sentiment": 0.081,
+        "avg_intensity": 0.438,
+        "total_engagement": 2.9,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "DESM: Artificial Intelligence 101: How Do Machines Learn and Think?",
+          "title": "Sam Altman is right: AI is changing the way people write and talk",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.064
+          "sentiment_score": 0.13
         }
       },
       {
         "category": "Everyday Tools & Productivity",
-        "count": 22,
-        "share": 0.108,
-        "avg_sentiment": 0.165,
-        "avg_intensity": 0.468,
-        "total_engagement": 2.2,
+        "count": 26,
+        "share": 0.121,
+        "avg_sentiment": -0.008,
+        "avg_intensity": 0.486,
+        "total_engagement": 2.6,
         "avg_engagement": 0.1,
         "top_example": {
-          "title": "Llama Builds is now in beta!  PcPartPicker for Local AI Builds",
+          "title": "Real life experience with Qwen3 embeddings?",
           "url": "",
           "engagement": 0.1,
-          "sentiment_score": 0.611
+          "sentiment_score": 0.41
         }
       }
     ]
@@ -126,94 +126,94 @@
   "top_drivers_news": [
     {
       "category": "Regulation & Policy",
-      "count": 113,
-      "share": 0.21,
-      "avg_sentiment": 0.083,
-      "avg_intensity": 0.226,
-      "total_engagement": 226,
+      "count": 112,
+      "share": 0.207,
+      "avg_sentiment": 0.077,
+      "avg_intensity": 0.232,
+      "total_engagement": 224,
       "avg_engagement": 2,
       "top_example": {
-        "title": "Japanese government’s AI Basic Plan to promote use of AI in public institutions - Asia News Network",
+        "title": "Gov't vows full policy support for domestic AI, robotics firms - Korea JoongAng Daily",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.508
-      }
-    },
-    {
-      "category": "Business & Investment",
-      "count": 67,
-      "share": 0.124,
-      "avg_sentiment": 0.248,
-      "avg_intensity": 0.29,
-      "total_engagement": 134,
-      "avg_engagement": 2,
-      "top_example": {
-        "title": "Microsoft and OpenAI Sign MOU to Advance AI Partnership and IPO Plans - WebProNews",
-        "url": "",
-        "engagement": 2,
-        "sentiment_score": 0.19
+        "sentiment_score": 0.119
       }
     },
     {
       "category": "Jobs & Economy",
-      "count": 65,
-      "share": 0.121,
-      "avg_sentiment": 0.068,
-      "avg_intensity": 0.349,
-      "total_engagement": 130,
+      "count": 79,
+      "share": 0.146,
+      "avg_sentiment": 0.129,
+      "avg_intensity": 0.341,
+      "total_engagement": 158,
       "avg_engagement": 2,
       "top_example": {
-        "title": "3D vision-based anomaly detection in manufacturing: A survey | Newswise - Newswise",
+        "title": "Wall Street Breakfast Podcast: Microsoft, OpenAI Chart New Path - Seeking Alpha",
         "url": "",
         "engagement": 2,
-        "sentiment_score": 0.056
+        "sentiment_score": 0.109
+      }
+    },
+    {
+      "category": "Business & Investment",
+      "count": 71,
+      "share": 0.131,
+      "avg_sentiment": 0.266,
+      "avg_intensity": 0.278,
+      "total_engagement": 142,
+      "avg_engagement": 2,
+      "top_example": {
+        "title": "iCIMS acquires Apli, strengthening AI market leadership - ROI-NJ",
+        "url": "",
+        "engagement": 2,
+        "sentiment_score": 0.443
       }
     }
   ],
   "top_drivers_social": [
     {
       "category": "Jobs & Economy",
-      "count": 38,
-      "share": 0.186,
-      "avg_sentiment": 0.015,
-      "avg_intensity": 0.452,
-      "total_engagement": 3.8,
+      "count": 47,
+      "share": 0.22,
+      "avg_sentiment": -0.261,
+      "avg_intensity": 0.472,
+      "total_engagement": 4.7,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "A test for ChatGPT to guess a TV show with a still image. A funny convo also ensues.",
+        "title": "Does chat gpt forgot how to write numbers in words?",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.675
+        "sentiment_score": -0.617
       }
     },
     {
       "category": "Humanity & AI",
-      "count": 30,
-      "share": 0.147,
-      "avg_sentiment": -0.008,
-      "avg_intensity": 0.422,
-      "total_engagement": 3,
+      "count": 29,
+      "share": 0.136,
+      "avg_sentiment": 0.081,
+      "avg_intensity": 0.438,
+      "total_engagement": 2.9,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "DESM: Artificial Intelligence 101: How Do Machines Learn and Think?",
+        "title": "Sam Altman is right: AI is changing the way people write and talk",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.064
+        "sentiment_score": 0.13
       }
     },
     {
       "category": "Everyday Tools & Productivity",
-      "count": 22,
-      "share": 0.108,
-      "avg_sentiment": 0.165,
-      "avg_intensity": 0.468,
-      "total_engagement": 2.2,
+      "count": 26,
+      "share": 0.121,
+      "avg_sentiment": -0.008,
+      "avg_intensity": 0.486,
+      "total_engagement": 2.6,
       "avg_engagement": 0.1,
       "top_example": {
-        "title": "Llama Builds is now in beta!  PcPartPicker for Local AI Builds",
+        "title": "Real life experience with Qwen3 embeddings?",
         "url": "",
         "engagement": 0.1,
-        "sentiment_score": 0.611
+        "sentiment_score": 0.41
       }
     }
   ]
