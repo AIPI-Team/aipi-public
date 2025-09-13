@@ -1,20 +1,20 @@
 {
   "date": "2025-09-13",
   "aipi": {
-    "index": 53.518,
-    "ema_7": 53.518,
+    "index": 53.385,
+    "ema_7": 53.385,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.13175568275862068,
-        "index": 56.588
+        "mean_sentiment": 0.12892778169014085,
+        "index": 56.446
       },
       "social": {
-        "mean_sentiment": -0.0445212037914692,
-        "index": 47.774
+        "mean_sentiment": -0.04978507943925234,
+        "index": 47.511
       },
       "search": {
-        "mean_sentiment": 0.07054260757575757,
-        "index": 53.527
+        "mean_sentiment": 0.07080948712121213,
+        "index": 53.54
       },
       "knowledge": {
         "mean_sentiment": 0.16909756896551725,
@@ -23,15 +23,15 @@
     }
   },
   "above_fold": {
-    "headline": "Global Sentiment Index Shows Mixed Source Trends",
-    "blurb": "Today's global sentiment index stands at 53.5, reflecting a balanced mood overall. News and knowledge sources show positive sentiment, while social media sentiment trends slightly negative. Search data remains moderately positive, indicating varied perceptions across different information channels.",
+    "headline": "Global Sentiment Index Steady with Mixed Source Signals",
+    "blurb": "Today's global sentiment index stands at 53.39, reflecting a generally neutral outlook. News and knowledge sources show positive sentiment, while social media sentiment trends slightly negative. Search data remains mildly positive, indicating varied public engagement across platforms.",
     "links": []
   },
   "drivers": {
     "news": [],
     "social": []
   },
-  "top_story": "Global Sentiment Index Shows Mixed Source Trends",
+  "top_story": "Global Sentiment Index Steady with Mixed Source Signals",
   "top_drivers_news": [],
   "top_drivers_social": []
 }
