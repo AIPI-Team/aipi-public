@@ -1,20 +1,20 @@
 {
   "date": "2025-09-15",
   "aipi": {
-    "index": 52.588,
-    "ema_7": 52.588,
+    "index": 52.801,
+    "ema_7": 52.801,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.11488118315018316,
-        "index": 55.744
+        "mean_sentiment": 0.118128725,
+        "index": 55.906
       },
       "social": {
-        "mean_sentiment": -0.08447755813953488,
-        "index": 45.776
+        "mean_sentiment": -0.07502266666666667,
+        "index": 46.249
       },
       "search": {
-        "mean_sentiment": 0.07050813409090909,
-        "index": 53.525
+        "mean_sentiment": 0.07110579924242424,
+        "index": 53.555
       },
       "knowledge": {
         "mean_sentiment": 0.17050046551724138,
@@ -41,59 +41,59 @@
         "source": "news"
       },
       {
-        "title": "4 hidden ChatGPT mobile tricks that make it way more useful - Tom's Guide",
+        "title": "Johns Hopkins’ AI future is coming, and the neighbors are not happy - The Baltimore Banner",
         "link": "",
-        "category": "Jobs & Economy",
-        "sentiment_score": 0.930152,
-        "sentiment_intensity": 0.930152,
+        "category": "Science & Technology",
+        "sentiment_score": -0.870582,
+        "sentiment_intensity": 0.870582,
         "engagement": 1,
-        "driver_weight": 0.930152,
+        "driver_weight": 0.870582,
         "published_at": "",
         "source": "news"
       },
       {
-        "title": "15 free ChatGPT prompts that make homework more fun and learning-focused for kids - Times of India",
+        "title": "CNBC Daily Open: AI helped the Nasdaq Composite clinch a perfect week - CNBC",
         "link": "",
-        "category": "Education & Learning",
-        "sentiment_score": 0.864641,
-        "sentiment_intensity": 0.864641,
+        "category": "Everyday Tools & Productivity",
+        "sentiment_score": 0.854348,
+        "sentiment_intensity": 0.854348,
         "engagement": 1,
-        "driver_weight": 0.864641,
+        "driver_weight": 0.854348,
         "published_at": "",
         "source": "news"
       }
     ],
     "social": [
       {
-        "title": "What's a ChatGPT prompt you wish everyone knew?",
+        "title": "AWE-INSPIRING Kryon Channeling On Humanity’s Future: The LIGHT Is WINNING & ETs Are COMING To Help!",
         "link": "",
-        "category": "Jobs & Economy",
-        "sentiment_score": 0.094096,
-        "sentiment_intensity": 0.094096,
-        "engagement": 2798,
-        "driver_weight": 263.280608,
+        "category": "Humanity & AI",
+        "sentiment_score": 0.910248,
+        "sentiment_intensity": 0.910248,
+        "engagement": 1936,
+        "driver_weight": 1762.240128,
         "published_at": "",
         "source": "social"
       },
       {
-        "title": "AI taking everybody’s jobs is NOT just an economic issue! Labor doesn't just give you money, it also gives you power.  When the world doesn't rely on people power anymore, the risk of oppression goes up.",
+        "title": "🍁Dollar Tree HACKS that changed my LIFE! ✨Worthy Dollar Tree DIYs to TRY NOW!",
         "link": "",
-        "category": "Jobs & Economy",
-        "sentiment_score": -0.452037,
-        "sentiment_intensity": 0.452037,
-        "engagement": 485,
-        "driver_weight": 219.23794500000002,
+        "category": "Humanity & AI",
+        "sentiment_score": 0.922547,
+        "sentiment_intensity": 0.922547,
+        "engagement": 1884,
+        "driver_weight": 1738.078548,
         "published_at": "",
         "source": "social"
       },
       {
-        "title": "What just happened to my ChatGPT??",
+        "title": "Elon continues to openly try (and fail) to manipulate Grok's political views",
         "link": "",
         "category": "Jobs & Economy",
-        "sentiment_score": -0.942383,
-        "sentiment_intensity": 0.942383,
-        "engagement": 207,
-        "driver_weight": 195.07328099999998,
+        "sentiment_score": -0.626946,
+        "sentiment_intensity": 0.626946,
+        "engagement": 2008,
+        "driver_weight": 1258.907568,
         "published_at": "",
         "source": "social"
       }
@@ -113,59 +113,59 @@
       "source": "news"
     },
     {
-      "title": "4 hidden ChatGPT mobile tricks that make it way more useful - Tom's Guide",
+      "title": "Johns Hopkins’ AI future is coming, and the neighbors are not happy - The Baltimore Banner",
       "link": "",
-      "category": "Jobs & Economy",
-      "sentiment_score": 0.930152,
-      "sentiment_intensity": 0.930152,
+      "category": "Science & Technology",
+      "sentiment_score": -0.870582,
+      "sentiment_intensity": 0.870582,
       "engagement": 1,
-      "driver_weight": 0.930152,
+      "driver_weight": 0.870582,
       "published_at": "",
       "source": "news"
     },
     {
-      "title": "15 free ChatGPT prompts that make homework more fun and learning-focused for kids - Times of India",
+      "title": "CNBC Daily Open: AI helped the Nasdaq Composite clinch a perfect week - CNBC",
       "link": "",
-      "category": "Education & Learning",
-      "sentiment_score": 0.864641,
-      "sentiment_intensity": 0.864641,
+      "category": "Everyday Tools & Productivity",
+      "sentiment_score": 0.854348,
+      "sentiment_intensity": 0.854348,
       "engagement": 1,
-      "driver_weight": 0.864641,
+      "driver_weight": 0.854348,
       "published_at": "",
       "source": "news"
     }
   ],
   "top_drivers_social": [
     {
-      "title": "What's a ChatGPT prompt you wish everyone knew?",
+      "title": "AWE-INSPIRING Kryon Channeling On Humanity’s Future: The LIGHT Is WINNING & ETs Are COMING To Help!",
       "link": "",
-      "category": "Jobs & Economy",
-      "sentiment_score": 0.094096,
-      "sentiment_intensity": 0.094096,
-      "engagement": 2798,
-      "driver_weight": 263.280608,
+      "category": "Humanity & AI",
+      "sentiment_score": 0.910248,
+      "sentiment_intensity": 0.910248,
+      "engagement": 1936,
+      "driver_weight": 1762.240128,
       "published_at": "",
       "source": "social"
     },
     {
-      "title": "AI taking everybody’s jobs is NOT just an economic issue! Labor doesn't just give you money, it also gives you power.  When the world doesn't rely on people power anymore, the risk of oppression goes up.",
+      "title": "🍁Dollar Tree HACKS that changed my LIFE! ✨Worthy Dollar Tree DIYs to TRY NOW!",
       "link": "",
-      "category": "Jobs & Economy",
-      "sentiment_score": -0.452037,
-      "sentiment_intensity": 0.452037,
-      "engagement": 485,
-      "driver_weight": 219.23794500000002,
+      "category": "Humanity & AI",
+      "sentiment_score": 0.922547,
+      "sentiment_intensity": 0.922547,
+      "engagement": 1884,
+      "driver_weight": 1738.078548,
       "published_at": "",
       "source": "social"
     },
     {
-      "title": "What just happened to my ChatGPT??",
+      "title": "Elon continues to openly try (and fail) to manipulate Grok's political views",
       "link": "",
       "category": "Jobs & Economy",
-      "sentiment_score": -0.942383,
-      "sentiment_intensity": 0.942383,
-      "engagement": 207,
-      "driver_weight": 195.07328099999998,
+      "sentiment_score": -0.626946,
+      "sentiment_intensity": 0.626946,
+      "engagement": 2008,
+      "driver_weight": 1258.907568,
       "published_at": "",
       "source": "social"
     }
