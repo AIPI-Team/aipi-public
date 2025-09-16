@@ -1,20 +1,20 @@
 {
   "date": "2025-09-16",
   "aipi": {
-    "index": 51.66,
-    "ema_7": 51.66,
+    "index": 54.096,
+    "ema_7": 54.096,
     "per_source": {
       "news": {
-        "mean_sentiment": 0.11765459024390244,
-        "index": 55.883
+        "mean_sentiment": 0.14324612186978297,
+        "index": 57.162
       },
       "social": {
-        "mean_sentiment": -0.15170271657754011,
-        "index": 42.415
+        "mean_sentiment": -0.02300674107142857,
+        "index": 48.85
       },
       "search": {
-        "mean_sentiment": 0.07094463636363636,
-        "index": 53.547
+        "mean_sentiment": 0.07028745681818181,
+        "index": 53.514
       },
       "knowledge": {
         "mean_sentiment": 0.17466760344827587,
@@ -41,37 +41,48 @@
         "source": "news"
       },
       {
-        "title": "Good governance holds the key to successful AI innovation - cio.com",
+        "title": "“The RAI Institute opens up unique opportunities for both researchers and students” - ETH Zürich",
         "link": "",
-        "category": "Governance & Power",
-        "sentiment_score": 0.88653,
-        "sentiment_intensity": 0.88653,
+        "category": "Humanity & AI",
+        "sentiment_score": 0.895834,
+        "sentiment_intensity": 0.895834,
         "engagement": 1,
-        "driver_weight": 0.88653,
+        "driver_weight": 0.895834,
         "published_at": "",
         "source": "news"
       },
       {
-        "title": "Winning the “Nobel Prize” of computing - Michigan Engineering News",
+        "title": "Oracle is reaping the rewards of OpenAI’s huge compute requirements - IT Pro",
         "link": "",
-        "category": "Science & Technology",
-        "sentiment_score": 0.884905,
-        "sentiment_intensity": 0.884905,
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.891721,
+        "sentiment_intensity": 0.891721,
         "engagement": 1,
-        "driver_weight": 0.884905,
+        "driver_weight": 0.891721,
         "published_at": "",
         "source": "news"
       }
     ],
     "social": [
       {
-        "title": "Dear OpenAI: I Will Not Be Ashamed of Having Boobs!",
+        "title": "They Are Lying About Charlie Kirk. | Candace Ep 235",
         "link": "",
-        "category": "Safety & Security",
-        "sentiment_score": -0.474734,
-        "sentiment_intensity": 0.474734,
-        "engagement": 2182,
-        "driver_weight": 1035.869588,
+        "category": "Regulation & Policy",
+        "sentiment_score": -0.114191,
+        "sentiment_intensity": 0.114191,
+        "engagement": 216400,
+        "driver_weight": 24710.9324,
+        "published_at": "",
+        "source": "social"
+      },
+      {
+        "title": "macOS Tahoe (26) is AMAZING! Do these 10 things FIRST!",
+        "link": "",
+        "category": "Ethics & Fairness",
+        "sentiment_score": 0.979182,
+        "sentiment_intensity": 0.979182,
+        "engagement": 2421,
+        "driver_weight": 2370.599622,
         "published_at": "",
         "source": "social"
       },
@@ -81,19 +92,8 @@
         "category": "Jobs & Economy",
         "sentiment_score": -0.373212,
         "sentiment_intensity": 0.373212,
-        "engagement": 2644,
-        "driver_weight": 986.772528,
-        "published_at": "",
-        "source": "social"
-      },
-      {
-        "title": "84% of software developers are now using AI, but nearly half 'don't trust' the technology over accuracy concerns",
-        "link": "",
-        "category": "Everyday Tools & Productivity",
-        "sentiment_score": -0.559169,
-        "sentiment_intensity": 0.559169,
-        "engagement": 1423,
-        "driver_weight": 795.697487,
+        "engagement": 3057,
+        "driver_weight": 1140.909084,
         "published_at": "",
         "source": "social"
       }
@@ -113,37 +113,48 @@
       "source": "news"
     },
     {
-      "title": "Good governance holds the key to successful AI innovation - cio.com",
+      "title": "“The RAI Institute opens up unique opportunities for both researchers and students” - ETH Zürich",
       "link": "",
-      "category": "Governance & Power",
-      "sentiment_score": 0.88653,
-      "sentiment_intensity": 0.88653,
+      "category": "Humanity & AI",
+      "sentiment_score": 0.895834,
+      "sentiment_intensity": 0.895834,
       "engagement": 1,
-      "driver_weight": 0.88653,
+      "driver_weight": 0.895834,
       "published_at": "",
       "source": "news"
     },
     {
-      "title": "Winning the “Nobel Prize” of computing - Michigan Engineering News",
+      "title": "Oracle is reaping the rewards of OpenAI’s huge compute requirements - IT Pro",
       "link": "",
-      "category": "Science & Technology",
-      "sentiment_score": 0.884905,
-      "sentiment_intensity": 0.884905,
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.891721,
+      "sentiment_intensity": 0.891721,
       "engagement": 1,
-      "driver_weight": 0.884905,
+      "driver_weight": 0.891721,
       "published_at": "",
       "source": "news"
     }
   ],
   "top_drivers_social": [
     {
-      "title": "Dear OpenAI: I Will Not Be Ashamed of Having Boobs!",
+      "title": "They Are Lying About Charlie Kirk. | Candace Ep 235",
       "link": "",
-      "category": "Safety & Security",
-      "sentiment_score": -0.474734,
-      "sentiment_intensity": 0.474734,
-      "engagement": 2182,
-      "driver_weight": 1035.869588,
+      "category": "Regulation & Policy",
+      "sentiment_score": -0.114191,
+      "sentiment_intensity": 0.114191,
+      "engagement": 216400,
+      "driver_weight": 24710.9324,
+      "published_at": "",
+      "source": "social"
+    },
+    {
+      "title": "macOS Tahoe (26) is AMAZING! Do these 10 things FIRST!",
+      "link": "",
+      "category": "Ethics & Fairness",
+      "sentiment_score": 0.979182,
+      "sentiment_intensity": 0.979182,
+      "engagement": 2421,
+      "driver_weight": 2370.599622,
       "published_at": "",
       "source": "social"
     },
@@ -153,19 +164,8 @@
       "category": "Jobs & Economy",
       "sentiment_score": -0.373212,
       "sentiment_intensity": 0.373212,
-      "engagement": 2644,
-      "driver_weight": 986.772528,
-      "published_at": "",
-      "source": "social"
-    },
-    {
-      "title": "84% of software developers are now using AI, but nearly half 'don't trust' the technology over accuracy concerns",
-      "link": "",
-      "category": "Everyday Tools & Productivity",
-      "sentiment_score": -0.559169,
-      "sentiment_intensity": 0.559169,
-      "engagement": 1423,
-      "driver_weight": 795.697487,
+      "engagement": 3057,
+      "driver_weight": 1140.909084,
       "published_at": "",
       "source": "social"
     }
