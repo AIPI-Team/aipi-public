@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-11",
+  "aipi": {
+    "index": 49.286,
+    "ema_7": 49.286,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.003176252918287938,
+        "index": 50.159
+      },
+      "social": {
+        "mean_sentiment": -0.10134718226600985,
+        "index": 44.933
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.1770396724137931,
+        "index": 58.852
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "Israel Used AI-Assisted Technology to Destroy Infrastructure in Gaza - Genocide Watch",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": -0.886588,
+        "sentiment_intensity": 0.886588,
+        "engagement": 1,
+        "driver_weight": 0.886588,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Protesters rage over ‘bulls—’ AI technology that could wipe out an entire profession - New York Post",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": -0.833458,
+        "sentiment_intensity": 0.833458,
+        "engagement": 1,
+        "driver_weight": 0.833458,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Report: ChatGPT's teen suicide safeguards failed to alert parents - Herald-Review.com",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": -0.809575,
+        "sentiment_intensity": 0.809575,
+        "engagement": 1,
+        "driver_weight": 0.809575,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "The Absurd History of Video Game Movies",
+        "link": "",
+        "category": "Safety & Security",
+        "sentiment_score": 0.779093,
+        "sentiment_intensity": 0.779093,
+        "engagement": 1555,
+        "driver_weight": 1211.489615,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Why the Japanese are so frugal?",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.76997,
+        "sentiment_intensity": 0.76997,
+        "engagement": 489,
+        "driver_weight": 376.51533,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "A Chaotic Life: The Wicked Mother of the First Wife Files a Police Complaint Against Omid",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": -0.737451,
+        "sentiment_intensity": 0.737451,
+        "engagement": 393,
+        "driver_weight": 289.818243,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "Israel Used AI-Assisted Technology to Destroy Infrastructure in Gaza - Genocide Watch",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": -0.886588,
+      "sentiment_intensity": 0.886588,
+      "engagement": 1,
+      "driver_weight": 0.886588,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Protesters rage over ‘bulls—’ AI technology that could wipe out an entire profession - New York Post",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": -0.833458,
+      "sentiment_intensity": 0.833458,
+      "engagement": 1,
+      "driver_weight": 0.833458,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Report: ChatGPT's teen suicide safeguards failed to alert parents - Herald-Review.com",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": -0.809575,
+      "sentiment_intensity": 0.809575,
+      "engagement": 1,
+      "driver_weight": 0.809575,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "The Absurd History of Video Game Movies",
+      "link": "",
+      "category": "Safety & Security",
+      "sentiment_score": 0.779093,
+      "sentiment_intensity": 0.779093,
+      "engagement": 1555,
+      "driver_weight": 1211.489615,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Why the Japanese are so frugal?",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.76997,
+      "sentiment_intensity": 0.76997,
+      "engagement": 489,
+      "driver_weight": 376.51533,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "A Chaotic Life: The Wicked Mother of the First Wife Files a Police Complaint Against Omid",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": -0.737451,
+      "sentiment_intensity": 0.737451,
+      "engagement": 393,
+      "driver_weight": 289.818243,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
