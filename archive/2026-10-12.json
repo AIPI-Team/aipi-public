@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-12",
+  "aipi": {
+    "index": 52.086,
+    "ema_7": 52.086,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.07379893015873015,
+        "index": 53.69
+      },
+      "social": {
+        "mean_sentiment": -0.0450024824120603,
+        "index": 47.75
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.1735440172413793,
+        "index": 58.677
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "The best on-farm use I've found for artificial intelligence - Agweek",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": 0.954961,
+        "sentiment_intensity": 0.954961,
+        "engagement": 1,
+        "driver_weight": 0.954961,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Doom 2016 Composer Mick Gordon Says 'F**k AI' - IGN",
+        "link": "",
+        "category": "Regulation & Policy",
+        "sentiment_score": -0.860081,
+        "sentiment_intensity": 0.860081,
+        "engagement": 1,
+        "driver_weight": 0.860081,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Report finds ChatGPT for Teens fails to deliver on safety promises - Transparency Coalition",
+        "link": "",
+        "category": "Safety & Security",
+        "sentiment_score": -0.85996,
+        "sentiment_intensity": 0.85996,
+        "engagement": 1,
+        "driver_weight": 0.85996,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "It's a sequel meme, but I will accept it because its' soooo true! XD",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.903675,
+        "sentiment_intensity": 0.903675,
+        "engagement": 3418,
+        "driver_weight": 3088.76115,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Luyen Takes on a New Challenge - Two People Build a House Together From the Ground Up",
+        "link": "",
+        "category": "Creativity & Culture",
+        "sentiment_score": 0.673708,
+        "sentiment_intensity": 0.673708,
+        "engagement": 1982,
+        "driver_weight": 1335.289256,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "【FULL】I Discovered His Love Was A Perfectly Planned Trap—So I Walked Away",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": 0.52753,
+        "sentiment_intensity": 0.52753,
+        "engagement": 867,
+        "driver_weight": 457.3685100000001,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "The best on-farm use I've found for artificial intelligence - Agweek",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": 0.954961,
+      "sentiment_intensity": 0.954961,
+      "engagement": 1,
+      "driver_weight": 0.954961,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Doom 2016 Composer Mick Gordon Says 'F**k AI' - IGN",
+      "link": "",
+      "category": "Regulation & Policy",
+      "sentiment_score": -0.860081,
+      "sentiment_intensity": 0.860081,
+      "engagement": 1,
+      "driver_weight": 0.860081,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Report finds ChatGPT for Teens fails to deliver on safety promises - Transparency Coalition",
+      "link": "",
+      "category": "Safety & Security",
+      "sentiment_score": -0.85996,
+      "sentiment_intensity": 0.85996,
+      "engagement": 1,
+      "driver_weight": 0.85996,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "It's a sequel meme, but I will accept it because its' soooo true! XD",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.903675,
+      "sentiment_intensity": 0.903675,
+      "engagement": 3418,
+      "driver_weight": 3088.76115,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Luyen Takes on a New Challenge - Two People Build a House Together From the Ground Up",
+      "link": "",
+      "category": "Creativity & Culture",
+      "sentiment_score": 0.673708,
+      "sentiment_intensity": 0.673708,
+      "engagement": 1982,
+      "driver_weight": 1335.289256,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "【FULL】I Discovered His Love Was A Perfectly Planned Trap—So I Walked Away",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": 0.52753,
+      "sentiment_intensity": 0.52753,
+      "engagement": 867,
+      "driver_weight": 457.3685100000001,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
