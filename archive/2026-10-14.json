@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-14",
+  "aipi": {
+    "index": 51.464,
+    "ema_7": 51.464,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.08353482378223495,
+        "index": 54.177
+      },
+      "social": {
+        "mean_sentiment": -0.09169127488151659,
+        "index": 45.415
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.17516074137931034,
+        "index": 58.758
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "ChatGPT AI彼女 違い is here to release all her secret porno clips and just for your eyes only! The glamorous tamil sex movie sexy viral bombshell makes her scenes in the most beautiful decors under many sunsets, xxx you don't want to miss! - Universidad de Córdoba (UCO)",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": 0.944221,
+        "sentiment_intensity": 0.944221,
+        "engagement": 1,
+        "driver_weight": 0.944221,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
+        "link": "",
+        "category": "Regulation & Policy",
+        "sentiment_score": 0.932462,
+        "sentiment_intensity": 0.932462,
+        "engagement": 1,
+        "driver_weight": 0.932462,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "5 Fun Projects for LLM Inference Engineering - KDnuggets",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.884888,
+        "sentiment_intensity": 0.884888,
+        "engagement": 1,
+        "driver_weight": 0.884888,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": 0.977268,
+        "sentiment_intensity": 0.977268,
+        "engagement": 6737,
+        "driver_weight": 6583.854516,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’.  Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence.",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": -0.360481,
+        "sentiment_intensity": 0.360481,
+        "engagement": 3115,
+        "driver_weight": 1122.898315,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Saudi national working at OpenAI arrested for bugging executive conference room",
+        "link": "",
+        "category": "Governance & Power",
+        "sentiment_score": -0.613748,
+        "sentiment_intensity": 0.613748,
+        "engagement": 1815,
+        "driver_weight": 1113.95262,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "ChatGPT AI彼女 違い is here to release all her secret porno clips and just for your eyes only! The glamorous tamil sex movie sexy viral bombshell makes her scenes in the most beautiful decors under many sunsets, xxx you don't want to miss! - Universidad de Córdoba (UCO)",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": 0.944221,
+      "sentiment_intensity": 0.944221,
+      "engagement": 1,
+      "driver_weight": 0.944221,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "IBM India Chief Praises India’s Balanced Approach to AI Regulation and Innovation - INDIA New England News",
+      "link": "",
+      "category": "Regulation & Policy",
+      "sentiment_score": 0.932462,
+      "sentiment_intensity": 0.932462,
+      "engagement": 1,
+      "driver_weight": 0.932462,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "5 Fun Projects for LLM Inference Engineering - KDnuggets",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.884888,
+      "sentiment_intensity": 0.884888,
+      "engagement": 1,
+      "driver_weight": 0.884888,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": 0.977268,
+      "sentiment_intensity": 0.977268,
+      "engagement": 6737,
+      "driver_weight": 6583.854516,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’.  Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo XIV of capitalizing on public anxiety about artificial intelligence.",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": -0.360481,
+      "sentiment_intensity": 0.360481,
+      "engagement": 3115,
+      "driver_weight": 1122.898315,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Saudi national working at OpenAI arrested for bugging executive conference room",
+      "link": "",
+      "category": "Governance & Power",
+      "sentiment_score": -0.613748,
+      "sentiment_intensity": 0.613748,
+      "engagement": 1815,
+      "driver_weight": 1113.95262,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
