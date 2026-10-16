@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-16",
+  "aipi": {
+    "index": 52.416,
+    "ema_7": 52.416,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.06430500502512562,
+        "index": 53.215
+      },
+      "social": {
+        "mean_sentiment": -0.011453564356435643,
+        "index": 49.427
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.16376762068965517,
+        "index": 58.188
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "Human Judgement Is the Most Powerful Technology in the AI Age - Time Magazine",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": 0.888794,
+        "sentiment_intensity": 0.888794,
+        "engagement": 1,
+        "driver_weight": 0.888794,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Nicely Network Recognised as Best AI SEO Agency for ChatGPT Mentions (2026) - MarTech Cube",
+        "link": "",
+        "category": "Regulation & Policy",
+        "sentiment_score": 0.870131,
+        "sentiment_intensity": 0.870131,
+        "engagement": 1,
+        "driver_weight": 0.870131,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity - The Atlantic",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": -0.868804,
+        "sentiment_intensity": 0.868804,
+        "engagement": 1,
+        "driver_weight": 0.868804,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "Dragon Ball Goku voice actor furious at “unforgivable” AI videos using her voice: “It has no heart”",
+        "link": "",
+        "category": "Creativity & Culture",
+        "sentiment_score": -0.892412,
+        "sentiment_intensity": 0.892412,
+        "engagement": 14312,
+        "driver_weight": 12772.200544,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
+        "link": "",
+        "category": "Governance & Power",
+        "sentiment_score": -0.722806,
+        "sentiment_intensity": 0.722806,
+        "engagement": 5481,
+        "driver_weight": 3961.699686,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Former Oxford Physicist: EVERYTHING You Know About Reality Is About to CHANGE! | David Clements",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": 0.729729,
+        "sentiment_intensity": 0.729729,
+        "engagement": 4759,
+        "driver_weight": 3472.780311,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "Human Judgement Is the Most Powerful Technology in the AI Age - Time Magazine",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": 0.888794,
+      "sentiment_intensity": 0.888794,
+      "engagement": 1,
+      "driver_weight": 0.888794,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Nicely Network Recognised as Best AI SEO Agency for ChatGPT Mentions (2026) - MarTech Cube",
+      "link": "",
+      "category": "Regulation & Policy",
+      "sentiment_score": 0.870131,
+      "sentiment_intensity": 0.870131,
+      "engagement": 1,
+      "driver_weight": 0.870131,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity - The Atlantic",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": -0.868804,
+      "sentiment_intensity": 0.868804,
+      "engagement": 1,
+      "driver_weight": 0.868804,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "Dragon Ball Goku voice actor furious at “unforgivable” AI videos using her voice: “It has no heart”",
+      "link": "",
+      "category": "Creativity & Culture",
+      "sentiment_score": -0.892412,
+      "sentiment_intensity": 0.892412,
+      "engagement": 14312,
+      "driver_weight": 12772.200544,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
+      "link": "",
+      "category": "Governance & Power",
+      "sentiment_score": -0.722806,
+      "sentiment_intensity": 0.722806,
+      "engagement": 5481,
+      "driver_weight": 3961.699686,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Former Oxford Physicist: EVERYTHING You Know About Reality Is About to CHANGE! | David Clements",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": 0.729729,
+      "sentiment_intensity": 0.729729,
+      "engagement": 4759,
+      "driver_weight": 3472.780311,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
