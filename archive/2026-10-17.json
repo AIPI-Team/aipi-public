@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-17",
+  "aipi": {
+    "index": 50.921,
+    "ema_7": 50.921,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.016403376940133038,
+        "index": 50.82
+      },
+      "social": {
+        "mean_sentiment": -0.02978073015873016,
+        "index": 48.511
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.17115279310344828,
+        "index": 58.558
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "Forget Gemini, ChatGPT, and Claude, I finally found my favorite AI tool on Android - Android Police",
+        "link": "",
+        "category": "Everyday Tools & Productivity",
+        "sentiment_score": 0.898209,
+        "sentiment_intensity": 0.898209,
+        "engagement": 1,
+        "driver_weight": 0.898209,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "AI: Our great expectations - Jon Peddie Research",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": 0.862222,
+        "sentiment_intensity": 0.862222,
+        "engagement": 1,
+        "driver_weight": 0.862222,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Mark Zuckerberg Opens Meta's Massive Muse Spark AI Model, Says It Runs Great on Apple's New Mac Studios Thanks to John Ternus - Yahoo Tech",
+        "link": "",
+        "category": "Safety & Security",
+        "sentiment_score": 0.853367,
+        "sentiment_intensity": 0.853367,
+        "engagement": 1,
+        "driver_weight": 0.853367,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "You Have 5 Years to Get Rich Before AI Takes Over",
+        "link": "",
+        "category": "Healthcare & Social Services",
+        "sentiment_score": 0.484014,
+        "sentiment_intensity": 0.484014,
+        "engagement": 2231,
+        "driver_weight": 1079.835234,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": -0.313089,
+        "sentiment_intensity": 0.313089,
+        "engagement": 3392,
+        "driver_weight": 1061.997888,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "The AI slop situation is a mess",
+        "link": "",
+        "category": "Humanity & AI",
+        "sentiment_score": -0.578836,
+        "sentiment_intensity": 0.578836,
+        "engagement": 1826,
+        "driver_weight": 1056.954536,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "Forget Gemini, ChatGPT, and Claude, I finally found my favorite AI tool on Android - Android Police",
+      "link": "",
+      "category": "Everyday Tools & Productivity",
+      "sentiment_score": 0.898209,
+      "sentiment_intensity": 0.898209,
+      "engagement": 1,
+      "driver_weight": 0.898209,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "AI: Our great expectations - Jon Peddie Research",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": 0.862222,
+      "sentiment_intensity": 0.862222,
+      "engagement": 1,
+      "driver_weight": 0.862222,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Mark Zuckerberg Opens Meta's Massive Muse Spark AI Model, Says It Runs Great on Apple's New Mac Studios Thanks to John Ternus - Yahoo Tech",
+      "link": "",
+      "category": "Safety & Security",
+      "sentiment_score": 0.853367,
+      "sentiment_intensity": 0.853367,
+      "engagement": 1,
+      "driver_weight": 0.853367,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "You Have 5 Years to Get Rich Before AI Takes Over",
+      "link": "",
+      "category": "Healthcare & Social Services",
+      "sentiment_score": 0.484014,
+      "sentiment_intensity": 0.484014,
+      "engagement": 2231,
+      "driver_weight": 1079.835234,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": -0.313089,
+      "sentiment_intensity": 0.313089,
+      "engagement": 3392,
+      "driver_weight": 1061.997888,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "The AI slop situation is a mess",
+      "link": "",
+      "category": "Humanity & AI",
+      "sentiment_score": -0.578836,
+      "sentiment_intensity": 0.578836,
+      "engagement": 1826,
+      "driver_weight": 1056.954536,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
