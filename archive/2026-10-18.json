@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-18",
+  "aipi": {
+    "index": 51.66,
+    "ema_7": 51.66,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.055316779527559055,
+        "index": 52.766
+      },
+      "social": {
+        "mean_sentiment": -0.04405147802197802,
+        "index": 47.797
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.17653118965517242,
+        "index": 58.827
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "I made ChatGPT-6 find the best character build in 3 of my favorite games — here’s how - Tom's Guide",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.919416,
+        "sentiment_intensity": 0.919416,
+        "engagement": 1,
+        "driver_weight": 0.919416,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "AI boom sustains Korea's growth despite global headwinds: IMF official - The Korea Times",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.860193,
+        "sentiment_intensity": 0.860193,
+        "engagement": 1,
+        "driver_weight": 0.860193,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "AI’s biggest breakthrough isn’t chatbots—it’s the eureka moment - Fast Company",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": 0.859173,
+        "sentiment_intensity": 0.859173,
+        "engagement": 1,
+        "driver_weight": 0.859173,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": -0.668695,
+        "sentiment_intensity": 0.668695,
+        "engagement": 4842,
+        "driver_weight": 3237.82119,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "The Biggest Gambling Loss Of My Life, So I Shaved My Head",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.883202,
+        "sentiment_intensity": 0.883202,
+        "engagement": 3394,
+        "driver_weight": 2997.5875880000003,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Amazing Transformation From a Ruined Wooden House to a Cozy Home - Her New Life Has Truly Begun",
+        "link": "",
+        "category": "Business & Investment",
+        "sentiment_score": 0.957638,
+        "sentiment_intensity": 0.957638,
+        "engagement": 1045,
+        "driver_weight": 1000.73171,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "I made ChatGPT-6 find the best character build in 3 of my favorite games — here’s how - Tom's Guide",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.919416,
+      "sentiment_intensity": 0.919416,
+      "engagement": 1,
+      "driver_weight": 0.919416,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "AI boom sustains Korea's growth despite global headwinds: IMF official - The Korea Times",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.860193,
+      "sentiment_intensity": 0.860193,
+      "engagement": 1,
+      "driver_weight": 0.860193,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "AI’s biggest breakthrough isn’t chatbots—it’s the eureka moment - Fast Company",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": 0.859173,
+      "sentiment_intensity": 0.859173,
+      "engagement": 1,
+      "driver_weight": 0.859173,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": -0.668695,
+      "sentiment_intensity": 0.668695,
+      "engagement": 4842,
+      "driver_weight": 3237.82119,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "The Biggest Gambling Loss Of My Life, So I Shaved My Head",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.883202,
+      "sentiment_intensity": 0.883202,
+      "engagement": 3394,
+      "driver_weight": 2997.5875880000003,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Amazing Transformation From a Ruined Wooden House to a Cozy Home - Her New Life Has Truly Begun",
+      "link": "",
+      "category": "Business & Investment",
+      "sentiment_score": 0.957638,
+      "sentiment_intensity": 0.957638,
+      "engagement": 1045,
+      "driver_weight": 1000.73171,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
