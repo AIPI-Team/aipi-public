@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-24",
+  "aipi": {
+    "index": 49.44,
+    "ema_7": 49.44,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.021389186700767265,
+        "index": 51.069
+      },
+      "social": {
+        "mean_sentiment": -0.11735942346938776,
+        "index": 44.132
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.17697241379310344,
+        "index": 58.849
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "AI economic research is getting really good - Axios",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": 0.975481,
+        "sentiment_intensity": 0.975481,
+        "engagement": 1,
+        "driver_weight": 0.975481,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell - TechCrunch",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.930926,
+        "sentiment_intensity": 0.930926,
+        "engagement": 1,
+        "driver_weight": 0.930926,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "A Ph.D. led me to my dream job. Here's why I'm doing an MBA at 41 to level up in the age of AI. - Business Insider",
+        "link": "",
+        "category": "Business & Investment",
+        "sentiment_score": 0.892761,
+        "sentiment_intensity": 0.892761,
+        "engagement": 1,
+        "driver_weight": 0.892761,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+        "link": "",
+        "category": "Healthcare & Social Services",
+        "sentiment_score": -0.44308,
+        "sentiment_intensity": 0.44308,
+        "engagement": 10702,
+        "driver_weight": 4741.84216,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Full Moon Guidance and a Major Turning Point! 👉🏼🌓🌕🌗Pick A Card Tarot",
+        "link": "",
+        "category": "Safety & Security",
+        "sentiment_score": 0.874418,
+        "sentiment_intensity": 0.874418,
+        "engagement": 923,
+        "driver_weight": 807.087814,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "I Bought EVERY AI Scam Product (Again)",
+        "link": "",
+        "category": "Creativity & Culture",
+        "sentiment_score": -0.430314,
+        "sentiment_intensity": 0.430314,
+        "engagement": 1767,
+        "driver_weight": 760.364838,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "AI economic research is getting really good - Axios",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": 0.975481,
+      "sentiment_intensity": 0.975481,
+      "engagement": 1,
+      "driver_weight": 0.975481,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell - TechCrunch",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.930926,
+      "sentiment_intensity": 0.930926,
+      "engagement": 1,
+      "driver_weight": 0.930926,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "A Ph.D. led me to my dream job. Here's why I'm doing an MBA at 41 to level up in the age of AI. - Business Insider",
+      "link": "",
+      "category": "Business & Investment",
+      "sentiment_score": 0.892761,
+      "sentiment_intensity": 0.892761,
+      "engagement": 1,
+      "driver_weight": 0.892761,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+      "link": "",
+      "category": "Healthcare & Social Services",
+      "sentiment_score": -0.44308,
+      "sentiment_intensity": 0.44308,
+      "engagement": 10702,
+      "driver_weight": 4741.84216,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Full Moon Guidance and a Major Turning Point! 👉🏼🌓🌕🌗Pick A Card Tarot",
+      "link": "",
+      "category": "Safety & Security",
+      "sentiment_score": 0.874418,
+      "sentiment_intensity": 0.874418,
+      "engagement": 923,
+      "driver_weight": 807.087814,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "I Bought EVERY AI Scam Product (Again)",
+      "link": "",
+      "category": "Creativity & Culture",
+      "sentiment_score": -0.430314,
+      "sentiment_intensity": 0.430314,
+      "engagement": 1767,
+      "driver_weight": 760.364838,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
