@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-27",
+  "aipi": {
+    "index": 51.756,
+    "ema_7": 51.756,
+    "per_source": {
+      "news": {
+        "mean_sentiment": 0.07681612743823146,
+        "index": 53.841
+      },
+      "social": {
+        "mean_sentiment": -0.06759014563106797,
+        "index": 46.62
+      },
+      "search": {
+        "mean_sentiment": null,
+        "index": null
+      },
+      "knowledge": {
+        "mean_sentiment": 0.17646158620689656,
+        "index": 58.823
+      }
+    }
+  },
+  "above_fold": {
+    "headline": "Today's leading AI story",
+    "blurb": "Daily AI sentiment analysis",
+    "links": []
+  },
+  "drivers": {
+    "news": [
+      {
+        "title": "AI industry continues to boom - KTVU",
+        "link": "",
+        "category": "Creativity & Culture",
+        "sentiment_score": 0.942469,
+        "sentiment_intensity": 0.942469,
+        "engagement": 1,
+        "driver_weight": 0.942469,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "OpenAI launches GPT-6.1 Terra: Sam Altman says ‘we are especially excited for …’ - The Times of India",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.927628,
+        "sentiment_intensity": 0.927628,
+        "engagement": 1,
+        "driver_weight": 0.927628,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "AI is Ruining Haunted Attractions - Plagiarism Today",
+        "link": "",
+        "category": "Creativity & Culture",
+        "sentiment_score": -0.882827,
+        "sentiment_intensity": 0.882827,
+        "engagement": 1,
+        "driver_weight": 0.882827,
+        "published_at": "",
+        "source": "news",
+        "keyword": "",
+        "content": ""
+      }
+    ],
+    "social": [
+      {
+        "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+        "link": "",
+        "category": "Science & Technology",
+        "sentiment_score": 0.32937,
+        "sentiment_intensity": 0.32937,
+        "engagement": 3922,
+        "driver_weight": 1291.78914,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "Zack D. Films Saved My Life",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.974909,
+        "sentiment_intensity": 0.974909,
+        "engagement": 1208,
+        "driver_weight": 1177.690072,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      },
+      {
+        "title": "How I Live On £650 a Month Travelling Full-Time",
+        "link": "",
+        "category": "Jobs & Economy",
+        "sentiment_score": 0.891312,
+        "sentiment_intensity": 0.891312,
+        "engagement": 1109,
+        "driver_weight": 988.465008,
+        "published_at": "",
+        "source": "social",
+        "keyword": "",
+        "content": ""
+      }
+    ]
+  },
+  "top_story": "Today's leading AI story",
+  "top_drivers_news": [
+    {
+      "title": "AI industry continues to boom - KTVU",
+      "link": "",
+      "category": "Creativity & Culture",
+      "sentiment_score": 0.942469,
+      "sentiment_intensity": 0.942469,
+      "engagement": 1,
+      "driver_weight": 0.942469,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra: Sam Altman says ‘we are especially excited for …’ - The Times of India",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.927628,
+      "sentiment_intensity": 0.927628,
+      "engagement": 1,
+      "driver_weight": 0.927628,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "AI is Ruining Haunted Attractions - Plagiarism Today",
+      "link": "",
+      "category": "Creativity & Culture",
+      "sentiment_score": -0.882827,
+      "sentiment_intensity": 0.882827,
+      "engagement": 1,
+      "driver_weight": 0.882827,
+      "published_at": "",
+      "source": "news",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "top_drivers_social": [
+    {
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "link": "",
+      "category": "Science & Technology",
+      "sentiment_score": 0.32937,
+      "sentiment_intensity": 0.32937,
+      "engagement": 3922,
+      "driver_weight": 1291.78914,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "Zack D. Films Saved My Life",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.974909,
+      "sentiment_intensity": 0.974909,
+      "engagement": 1208,
+      "driver_weight": 1177.690072,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    },
+    {
+      "title": "How I Live On £650 a Month Travelling Full-Time",
+      "link": "",
+      "category": "Jobs & Economy",
+      "sentiment_score": 0.891312,
+      "sentiment_intensity": 0.891312,
+      "engagement": 1109,
+      "driver_weight": 988.465008,
+      "published_at": "",
+      "source": "social",
+      "keyword": "",
+      "content": ""
+    }
+  ],
+  "headline_source": "topics"
+}
